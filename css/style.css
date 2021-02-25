@@ -14,9 +14,12 @@ body {
 
 /* BLOCCO STEPS */
 
+#steps {
+  background-color: lightgray;
+}
+
 #steps .container {
   text-align: center;
-  background-color: lightgray;
   padding: 5%;
 }
 
