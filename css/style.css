@@ -20,6 +20,10 @@ body {
   padding: 5%;
 }
 
+#steps h3 {
+  padding-bottom: 10px;
+}
+
 /* BLOCCO PERCHE */
 
 #why .container {
